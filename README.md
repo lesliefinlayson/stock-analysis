@@ -16,6 +16,7 @@ Refactoring the project with the goal of running VBA script faster included:
         •	i to loop through the tickers and J to find the total volume, starting price, and ending volume
         
         ![image](https://user-images.githubusercontent.com/84471904/124055468-ce2ab200-d9d8-11eb-9217-992089c1ef4d.png)
+        
 
     
 
