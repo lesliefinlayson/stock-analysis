@@ -15,8 +15,8 @@ Refactoring the project with the goal of running VBA script faster included:
  
         •	i to loop through the tickers and J to find the total volume, starting price, and ending volume
         
-   <img width="324" alt="code with 2 loops" src="https://user-images.githubusercontent.com/84471904/124057344-22836100-d9dc-11eb-820d-bb565d0709b0.png"     
-        
+<img width="324" alt="code with 2 loops" src="https://user-images.githubusercontent.com/84471904/124057435-53639600-d9dc-11eb-8b53-7cfcb3d8a4a2.png">
+
         
 The refractored code for the VBA project adjusted and simplified the code to 1 loop:
 
