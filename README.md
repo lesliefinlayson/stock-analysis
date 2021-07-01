@@ -11,11 +11,21 @@ Refactoring the project with the goal of running VBA script faster included:
     
  A. _Decreasing number of loops_
  
- The original code for the VBA project had 2 loops:
+ The original code for the VBA project has 2 loops:
  
         •	i to loop through the tickers and J to find the total volume, starting price, and ending volume
         
-       <img width="324" alt="2021-06-30 (11)" src="https://user-images.githubusercontent.com/84471904/124056078-ebac4b80-d9d9-11eb-8908-721f87864e5f.png">
+   <img width="324" alt="code with 2 loops" src="https://user-images.githubusercontent.com/84471904/124057344-22836100-d9dc-11eb-820d-bb565d0709b0.png"     
+        
+        
+The refractored code for the VBA project adjusted and simplified the code to 1 loop:
+
+    •	accomplished by using a tickerIndex and nesting.  No longer needed the second loop.
+    
+    
+
+
+      
 
 
         
