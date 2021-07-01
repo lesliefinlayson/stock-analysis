@@ -30,6 +30,13 @@ The refractored code for the VBA project adjusted and simplified the code to 1 l
  
 ![image](https://user-images.githubusercontent.com/84471904/124059981-e1da1680-d9e0-11eb-8fd0-445934fc6ac5.png)
 
+The refractored code simplifies the code to an If/Else command:
+
+![image](https://user-images.githubusercontent.com/84471904/124060265-8f4d2a00-d9e1-11eb-9feb-439f39fac1ab.png)
+
+
+
+
 
  
  
