@@ -79,7 +79,7 @@ Some disadvantages are:
   
          •	may introduce bugs
 
-  
+In the case of this analysis.  It was indeed time-consuming to refractor the VBA script.  However, there are shown significant increases in performance by decreasing the amount of time needed to process the data.  Because of the goal to significantly increase the efficiency of the code to analyze a greater number of stocks analyszed over a greater span of years, the results justify the time spent.  
 
 
 
