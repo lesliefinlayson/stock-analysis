@@ -22,6 +22,9 @@ The refractored code for the VBA project adjusted and simplified the code to 1 l
 
     •	accomplished by using a tickerIndex and nesting.  No longer needed the second loop.
     
+  <img width="324" alt="code with 2 loops" src="https://user-images.githubusercontent.com/84471904/124057709-d84eaf80-d9dc-11eb-87ff-842761062e18.png">
+ 
+    
     
 
 
