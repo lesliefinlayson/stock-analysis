@@ -9,9 +9,14 @@ Refactoring the project with the goal of running VBA script faster included:
     A.  Decreasing the number of loops in the code
     B.  Streamlining formatting
     
- A.* Decreasing number of loops*
+ A. _Decreasing number of loops_
  
-    
+ The original code for the VBA project had 2 loops:
+ 
+        •	i to loop through the tickers and J to find the total volume, starting price, and ending volume
+        
+        ![image](https://user-images.githubusercontent.com/84471904/124055468-ce2ab200-d9d8-11eb-9217-992089c1ef4d.png)
+
     
 
 
