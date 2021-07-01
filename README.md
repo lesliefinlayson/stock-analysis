@@ -6,8 +6,12 @@ The initial project was to look at annual stock performance by analyzing the tot
 ### Results
 Refactoring the project with the goal of running VBA script faster included:
 
-  A.  Decreasing the number of loops in the code
-  B.  Streamlining formatting
+    A.  Decreasing the number of loops in the code
+    B.  Streamlining formatting
+    
+    
+    
+    
 
 
 
