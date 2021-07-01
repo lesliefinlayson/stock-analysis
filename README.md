@@ -26,6 +26,11 @@ The refractored code for the VBA project adjusted and simplified the code to 1 l
   
  B.  _Streamlining Formatting_
  
+ The original code for formatting is an If/Elself/Else command:
+ 
+ ![image](https://user-images.githubusercontent.com/84471904/124059874-af301e00-d9e0-11eb-9c2e-d028df8f7c0e.png)
+
+ 
  
     
     
