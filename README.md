@@ -9,7 +9,8 @@ Refactoring the project with the goal of running VBA script faster included:
     A.  Decreasing the number of loops in the code
     B.  Streamlining formatting
     
-    
+ A.** Decreasing number of loops**
+ 
     
     
 
