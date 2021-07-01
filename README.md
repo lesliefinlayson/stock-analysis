@@ -47,7 +47,7 @@ _Refracted Code for year 2017_
 
 Results for refracting 2017 code:
 
-  The original time to run the code was 2.383813.  The refracted time to run the code was .3125.  Approximately 2 minutes is saved by refracting the code for the data in 2017.
+  The original time to run the code was 2.383813 seconds.  The refracted time to run the code was .3125 seconds.  Approximately 2 minutes is saved by refracting the code for the data in 2017.
     
     
 _Original Code for year 2018_
@@ -59,7 +59,9 @@ _Refracted Code for year 2018_
 
 <img width="674" alt="2018_refracted_analysis)" src="https://user-images.githubusercontent.com/84471904/124061752-4fd40d00-d9e4-11eb-8956-329c608ddd23.png">
 
+Results for refracting 2018 code:
 
+  The original time to run the code was 1.984375 seconds.  The refracted time to run the code was .28125 seconds.  Approximately 1.7 minutes is saved by refracting the code for the data in 2018.
 
 
 
