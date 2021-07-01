@@ -73,10 +73,9 @@ Some advantages are:
   •	opportunity to make the code more readable
   
 Some disadvantages are:
-•	time-consuming
-•	may introduce bugs
 
-
+  •	time consuming
+  •	may introduce bugs
 
   
 
