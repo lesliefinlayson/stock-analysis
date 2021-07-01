@@ -63,7 +63,7 @@ Results for refracting 2018 code:
 
   The original time to run the code was 1.984375 seconds.  The refracted time to run the code was .28125 seconds.  Approximately 1.7 minutes is saved by refracting the code for the data in 2018.
 
-##Summary
+## Summary
 
 There are advantages and disadvantages to refactoring code in general.
 
