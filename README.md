@@ -34,7 +34,16 @@ The refractored code simplifies the code to an If/Else command:
 
 ![image](https://user-images.githubusercontent.com/84471904/124060265-8f4d2a00-d9e1-11eb-9feb-439f39fac1ab.png)
 
-__Comparison:   Times for original code and refracted code__
+__Comparison:   Times for original code and refracted code:__
+
+_Original Code_
+
+<img width="636" alt="2017_analysis" src="https://user-images.githubusercontent.com/84471904/124060985-f4554f80-d9e2-11eb-906d-f45b6c14a7d7.png">
+
+<img width="654" alt="2018_analysis" src="https://user-images.githubusercontent.com/84471904/124060997-fb7c5d80-d9e2-11eb-9d3c-b14b75980e20.png">
+
+
+
 
 
 
