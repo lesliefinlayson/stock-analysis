@@ -36,12 +36,14 @@ The refractored code simplifies the code to an If/Else command:
 
 __Comparison:   Times for original code and refracted code:__
 
-_Original Code_
+_Original Code for year 2017_
 
 <img width="636" alt="2017_analysis" src="https://user-images.githubusercontent.com/84471904/124060985-f4554f80-d9e2-11eb-906d-f45b6c14a7d7.png">
 
-<img width="654" alt="2018_analysis" src="https://user-images.githubusercontent.com/84471904/124060997-fb7c5d80-d9e2-11eb-9d3c-b14b75980e20.png">
 
+_Refracted Code for year 2017_
+
+<img width="655" alt="2017_refractored_analysis" src="https://user-images.githubusercontent.com/84471904/124061114-2b2b6580-d9e3-11eb-8cf7-2fcaf608862b.png">
 
 
 
