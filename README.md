@@ -1,7 +1,7 @@
 # Analysis:  Can Refractoring Make VBA Script Run Faster
 
 ## Project and Purpose Overview:  
-The initial project was to look at annual stock performance by analyzing the total daily total volume and return of a stock. This led to the creation of a workbook with a quick and easy interface (buttons) to run these numbers on 12 tickers(stocks) with two years of data. This workbook has proven to be useful and there is interest to expand it to analyze more tickers over more years. With more data requirements, the current code may be inadequete and slow. Refractoring the code may have it running optimally.  The purpose of this project is to refract the VBA code to see if it can run the VBA script faster. 
+The initial project was to look at annual stock performance by analyzing the total daily total volume and return of a selected group of stocks. This led to the creation of a workbook with a quick and easy interface (buttons) to run these numbers on 12 tickers(stocks) with two years of data. This workbook has proven to be useful and there is interest to expand it to analyze more tickers over more years. With more data requirements, however, the current code may be inadequete and slow. The solution may be refractoring so that the code runs optimally.  The purpose of this project is to determine if the VBA script will run faster by refracting the original VBA code.
 
 ### Analysis and Results
 Refactoring the project with the goal of running VBA script faster included:
