@@ -69,15 +69,15 @@ There are advantages and disadvantages to refactoring code in general.
 
 Some advantages are:
     
-  •	may significantly boost system performance by simplifying the code
+         •	may significantly boost system performance by simplifying the code
   
-  •	opportunity to make the code more readable
+         •	opportunity to make the code more readable
   
 Some disadvantages are:
 
-  •	time consuming
+         •	time consuming
   
-  •	may introduce bugs
+         •	may introduce bugs
 
   
 
