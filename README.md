@@ -13,7 +13,7 @@ Refactoring the project with the goal of running VBA script faster included:
  
  The original code for the VBA project has 2 loops:
  
-        •	i to loop through the tickers and J to find the total volume, starting price, and ending volume
+        •	i to loop through the tickers and j to find the total volume, starting price, and ending volume
         
 <img width="324" alt="code with 2 loops" src="https://user-images.githubusercontent.com/84471904/124057435-53639600-d9dc-11eb-8b53-7cfcb3d8a4a2.png">
 
